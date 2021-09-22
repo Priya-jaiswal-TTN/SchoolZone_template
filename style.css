@@ -156,7 +156,8 @@ ul li{
 .banner-container .btn{
     color: #fff;
     border-color: #fff;
-    margin-top: 25px;
+    margin: 0 10px;
+    margin-top: 25px;   
 }
 
 .banner-container .btn:hover{
